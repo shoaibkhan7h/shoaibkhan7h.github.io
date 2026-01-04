@@ -1,7 +1,9 @@
-body {
-  background-color: red !important;
-}
 
+
+body {
+  background-color: #f4f6f8;
+  font-family: Arial, sans-serif;
+}
 
 /* ============================= */
 /* Global Reset */
@@ -193,4 +195,5 @@ footer {
   transform: translateX(6px);
   font-weight: 600;
 }
+
 
